@@ -4,12 +4,20 @@ body {
 
 }
 
+section {
+    margin-bottom: 100px;
+}
+
 .top-banner {
     background-image: url(donation7.jpg);
     background-repeat: repeat;
     background-size: cover;
     background-position: center;
 
+}
+
+.donate-amount {
+    text-align: center;
 }
 
 h1 {
@@ -35,4 +43,26 @@ h1 {
     padding: 4px 8px;
     border-radius: 7px;
 
+}
+
+.donate-area {
+    display: flex;
+    text-align: center;
+    text-align: justify;
+}
+
+.amount-number {
+    box-shadow: 5px 5px 10px grey;
+    padding: 16px 8px;
+    margin-right: 6px;
+}
+
+#clicked-amount {
+    border: 2px solid purple;
+    color: purple;
+}
+
+.numer-button {
+    padding: 16px 16px;
+    box-shadow: 5px 5px 10px grey;
 }
