@@ -84,3 +84,30 @@ h1 {
     border: none;
     border-bottom: 1px solid;
 }
+
+.our-plan {
+    text-align: center;
+}
+
+.plan-item {
+    display: flex;
+    margin-left: 5%;
+    margin-right: 5%;
+
+}
+
+.item-site {
+    padding-right: 5%;
+}
+
+.first-icon {
+    width: 100px;
+}
+
+.second-icon {
+    width: 100px;
+}
+
+.third-icon {
+    width: 100px;
+}
