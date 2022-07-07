@@ -151,6 +151,8 @@ h1 {
 
 #email-button {
     border-radius: 7px;
+    background-color: darkgrey;
+    border: none;
 }
 
 #sub-button {
