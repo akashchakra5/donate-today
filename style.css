@@ -51,9 +51,10 @@ h1 {
 
 .donate-click {
     border: none;
-    background-image: linear-gradient(orange, yellow);
+    background-image: linear-gradient(red, orange);
     border-radius: 7px;
     padding: 8px 10px;
+    color: wheat;
 }
 
 .donate-area {
