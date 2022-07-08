@@ -43,7 +43,7 @@ h1 {
 .donate-button {
     color: white;
     text-decoration: none;
-    background-image: linear-gradient(orange, yellow);
+    background-image: linear-gradient(orange, red);
     padding: 4px 8px;
     border-radius: 7px;
 
@@ -93,6 +93,7 @@ h1 {
     text-align: center;
 }
 
+
 .plan-item {
     display: flex;
     margin-left: 5%;
@@ -109,7 +110,11 @@ h1 {
 
 }
 
-#food-family {
+.picture-flexible {
+    text-align: center;
+}
+
+. #food-family {
     background-color: bisque;
 }
 
@@ -142,6 +147,55 @@ h1 {
     padding-top: 5%;
     padding-bottom: 5%;
 }
+
+.humanity {
+    text-align: center;
+}
+
+.humanity-family {}
+
+.suffering-item {
+    display: flex;
+    margin-bottom: 50px;
+    width: 50%;
+    margin-left: o;
+
+}
+
+.humanity-item {
+    display: flex;
+}
+
+.donate {
+    text-align: center;
+    padding-left: 80px;
+    padding-top: 100px;
+}
+
+.donate-2 {
+    text-align: center;
+    padding-left: 40px;
+}
+
+
+
+
+
+#humanity-pera {
+    padding-top: 150px;
+    padding-left: 30px;
+}
+
+.first-image {
+    margin-left: 5%;
+    box-shadow: 7px 7px 20px grey;
+}
+
+.second-image {
+    box-shadow: 7px 7px 20px grey;
+}
+
+
 
 .email-button {
     width: 400px;
